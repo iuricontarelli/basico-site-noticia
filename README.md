@@ -1,6 +1,6 @@
-# Site de noticia
+# Site de Notícia
 
-Este é um projeto de um site de noticia básico desenvolvido utilizando HTML semântico e CSS.
+Este é um projeto de um site de notícia básico desenvolvido utilizando HTML semântico e CSS.
 
 ## Imagem do projeto
 
